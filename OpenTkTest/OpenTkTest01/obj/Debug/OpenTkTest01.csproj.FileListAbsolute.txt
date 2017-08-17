@@ -1,0 +1,10 @@
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\bin\Debug\OpenTkTest01.exe.config
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\bin\Debug\OpenTkTest01.exe
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\bin\Debug\OpenTkTest01.pdb
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\bin\Debug\OpenTK.dll
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\bin\Debug\OpenTK.xml
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\obj\Debug\OpenTkTest01.csprojResolveAssemblyReference.cache
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\obj\Debug\OpenTkTest01.Properties.Resources.resources
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\obj\Debug\OpenTkTest01.csproj.GenerateResource.Cache
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\obj\Debug\OpenTkTest01.exe
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTkTest01\obj\Debug\OpenTkTest01.pdb

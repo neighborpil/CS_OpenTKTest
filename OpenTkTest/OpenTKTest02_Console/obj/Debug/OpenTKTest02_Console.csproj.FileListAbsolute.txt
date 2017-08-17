@@ -1,0 +1,8 @@
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\bin\Debug\OpenTKTest02_Console.exe.config
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\bin\Debug\OpenTKTest02_Console.exe
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\bin\Debug\OpenTKTest02_Console.pdb
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\bin\Debug\OpenTK.dll
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\bin\Debug\OpenTK.xml
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\obj\Debug\OpenTKTest02_Console.exe
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\obj\Debug\OpenTKTest02_Console.pdb
+C:\Study\Git\C_AvoidPoopGame\OpenTkTest\OpenTKTest02_Console\obj\Debug\OpenTKTest02_Console.csprojResolveAssemblyReference.cache
